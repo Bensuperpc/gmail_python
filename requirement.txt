@@ -1,0 +1,8 @@
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib 
+pip3 install --upgrade pip
+pip3 install --upgrade google-api-python-client
+pip3 install --upgrade httplib2
+pip3 install --upgrade oauth2client
+pip3 install --upgrade bs4
+pip3 install --upgrade lxml
+pip3 install --upgrade neo4j-driver
